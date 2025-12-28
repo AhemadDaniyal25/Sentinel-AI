@@ -4,10 +4,6 @@
 
 ![SentinelAI Architecture](media/sentinelai_architecture.png)
 
-## System Architecture
-
-![SentinelAI Architecture](media/sentinelai_architecture.png)
-
 
 ## Problem Statement
 Industrial equipment generates continuous sensor data. Undetected anomalies can lead to
