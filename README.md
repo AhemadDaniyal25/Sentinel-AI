@@ -4,6 +4,13 @@
 
 ![SentinelAI Architecture](media/sentinelai_architecture.png)
 
+## Interactive Demo
+
+The system includes an interactive UI that demonstrates how sensor behavior
+is translated into anomaly risk and decision-aware alerts.
+
+![SentinelAI Interactive Demo](media/sentinelai_ui.png)
+
 
 ## Problem Statement
 Industrial equipment generates continuous sensor data. Undetected anomalies can lead to
